@@ -1,4 +1,4 @@
 # Hafsa-demo
 This is my first demo.
 <br>
-Author-Hafsa (apna college)
+Author: Hafsa (apna college)
